@@ -1,9 +1,29 @@
 {
   "mu" : [
     {
-      "name" : "Example",
-      "git_username" : "example",
-      "shoutout" : "Thanks!"
+      "name" : "Hannah Springer",
+      "git_username" : "sprin191",
+      "shoutout" : "Chavo and Logan--thanks for helping me work through the weekend challenge last Friday!"
+    },
+    {
+      "name" : "Glydewell Burdick",
+      "git_username" : "glydeb",
+      "shoutout" : "Thanks to all who have asked me for help - it makes me feel great and part of the group!"
+    },
+    {
+      "name" : "Zach Kusz",
+      "git_username" : "zachkusz",
+      "shoutout" : "Noah, thanks for bringing in the board games at lunch, it's a ton of fun and games are a great way to get to know the cohort."
+    },
+    {
+      "name" : "Samantha",
+      "git_username" : "shklein",
+      "shoutout" : "Sion gets highfives!"
+    },
+    {
+      "name" : "Adam",
+      "git_username" : "ahefnider",
+      "shoutout" : "Anthony, you're crazy helpful with this stuff. Thanks."
     },
   ]
 }

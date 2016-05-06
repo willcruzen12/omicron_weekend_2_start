@@ -1,5 +1,5 @@
 {
-  "name": "kappa_weekend_2",
+  "name": "mu_weekend_2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server/app.js"
   },
-  "author": "Kappa Cohort",
+  "author": "Mu Cohort",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^3.3.6",

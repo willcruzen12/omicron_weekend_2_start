@@ -86,9 +86,24 @@
       "shoutout" : "Thanks Kris and Connor for being awesome co-workers as opposed to cow workers."
     },
     {
+      "name" : "Joe Mielzarek",
+      "git_username" : "joemielzarek",
+      "shoutout" : "So proud to be apart of Mu, you all are amazing!"
+    },
+    {
+      "name" : "Sion Owen",
+      "git_username" : "sionowen",
+      "shoutout" : "Thanks to Noah for reminding me to fill this form out."
+    },
+    {
+      "name" : "Gini",
+      "git_username" : "",
+      "shoutout" : ""
+    },
+    {
       "name" : "Kris Szafranski",
       "git_username" : "kdszafranski",
       "shoutout" : "Thank you to all the Mu students for challenging me! I learn more everyday, just like you!"
-    }
+    },
   ]
 }

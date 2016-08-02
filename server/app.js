@@ -1,7 +1,7 @@
 var express = require("express");
 var app = express();
 var path = require("path");
-var data = require("./public/data/mu");
+var data = require("./public/data/omicron");
 
 app.set("port", (process.env.PORT || 5000));
 
